@@ -1,0 +1,28 @@
+#b1
+{
+  
+    background-color: violet;
+}
+.i2
+{
+    padding-left: 30px;
+}
+.div1
+{
+    background-color: hotpink;
+}
+.div2
+{
+    background-color:navy;
+    color:white;
+}
+#cont1
+{
+    display: flex;
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+    color: red;
+    margin: 0%;
+
+}
